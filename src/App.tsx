@@ -162,7 +162,7 @@ function App() {
           {/* Ahmad Yasin's Profile */}
           <div className="flex items-center justify-center mb-8">
             <img
-              src="\src\AhmadYasin.jpg" // Replace with Ahmad Yasin's profile picture URL
+              src="\mnist_digit_classifier\src\AhmadYasin.jpg"
               alt="Ahmad Yasin"
               className="w-24 h-24 rounded-full border-4 border-emerald-500"
             />
