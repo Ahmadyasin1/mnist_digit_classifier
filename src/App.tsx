@@ -162,7 +162,7 @@ function App() {
           {/* Ahmad Yasin's Profile */}
           <div className="flex items-center justify-center mb-8">
             <img
-              src="src/AhmadYasin.jpg"
+              src="http://nexariza.me/AhmadYasin.jpg"
               alt="Ahmad Yasin"
               className="w-24 h-24 rounded-full border-4 border-emerald-500"
             />
